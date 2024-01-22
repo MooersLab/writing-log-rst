@@ -20,14 +20,14 @@ You can delete these after they are no longer needed.
 
 Version 0.3 of the writing log is divided into four sections: 
 
-- project initiation
-- daily entries
-- future additions and tangents
+- Project initiation
+- Daily entries
+- Future additions and tangents
 - Guidelines, checklists, protocols, and helpful tips
 
 The subsections of these four sections are shown below.
 
-### Project intiation
+### Project initiation
 
 - Rationale
 - Audience
