@@ -5,6 +5,10 @@
 # writing-log-rst: Writing log for reStructuredText
 
 ## Introduction
+[ReStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) is favored by some computer programmers for generating documentation.
+It is a [markup language](https://docutils.sourceforge.io/rst.html) that is intermediate between markdown and LaTeX in terms of the options available and the control over the output.
+The proceeding papers for the SciPy Conference are prepared in reStructuredText.
+
 The writing log is a document that is external to the manuscript.
 It is used to store the plans and progress made on a one manuscript.
 It is tool for enhancing your focus and sustaining forward momentum on the writing project.
