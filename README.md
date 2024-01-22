@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
-# writing-log-rst: Writing log for RestructuredText
+# writing-log-rst: Writing log for reStructuredText
 
 
 ## Features of Version 0.3
